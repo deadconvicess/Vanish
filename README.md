@@ -1,7 +1,7 @@
 
              Vanish Rat 2.0 - Setup Guide
 --------------------------------------------------------
-Author  : @kqco | Packaged By: #kqco
+Author  : @deadconvicess | Packaged By: #deadconvicess
 License : MIT
 --------------------------------------------------------
 
@@ -34,7 +34,7 @@ License : MIT
    python Rat.pyw
 
 
- OPTIONAL: BUILDING STEALTH EXE
+ OPTIONAL: BUILDING EXE
 ---------------------------------
 For No Console Window:
 - Nuitka: pip install nuitka
@@ -65,10 +65,9 @@ Example Commands:
 - Check bot token and webhook are valid and accessible
 - Ensure all packages are installed
 - Make sure you used a RAW Pastebin/Gist link
-- Run via python, not by double-clicking
 
 
-ENJOY USING VANISH RAT 2.0 
+ENJOY USING VANISH RAT 1.0 
 
 --------------------------------------------------------
 
