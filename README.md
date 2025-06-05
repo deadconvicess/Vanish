@@ -1,5 +1,5 @@
 
-             Vanish Rat 2.0 - Setup Guide
+             Vanish Rat 1.0 - Setup Guide
 --------------------------------------------------------
 Author  : @deadconvicess | Packaged By: #deadconvicess
 License : MIT
