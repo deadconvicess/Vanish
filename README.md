@@ -53,58 +53,6 @@ Once bot is running, type:
    .help
 To view available commands.
 
-Vanish Commands:
-.info           – System info From Victim
-.geo            – IP & Geo From Victim
-.admin          - Ask For Admin
-.key start/stop – Start or stop keylogger
-.dwd            – Disable Windows Defender
-.rtp            – Disable Real Time Protection
-.kill           – Kill "process" 
-.disablemgr     - Disables Task Manager
-.enablemgr      – Enables Task Manager
-.openurl <link> – Open Link in browser
-.up             – Upload a file To Victims Pc 
-.df             – Delete Uploaded File
-.qr             – Connects to wifi via qr
-.record         – Screen record Victims Pc 
-.ss             – Screenshot Victims Pc
-.webcam         – Take webcam photo
-.sf (File Name) - File Stealer         - 
-.af             - Steals Auto Fill
-.pw             – Browser Passwords
-.gc             – Grab Browser Cookies
-.net            – Netflix Info Grabber
-.epic           - Epic Games Grabber
-.steam          – Steam Grabber
-.riot           – Riot Grabber
-.token          – Discord token grabber
-.reg            – Add to Startup(Registry)
-.rmreg          – Remove from Startup(Registry)
-.wifi           - Wifi Info Grabber
-.cb             - Clipboard Grabber
-.sp             – Spotify token grabber
-.v <0–100>      - Set system volume
-.shell <cmd>    – Run Cmd/Shell Commands
-.list           – Running processes From Victim
-.history        – Browser history From Victim
-.Mic            – Record Victims microphone
-.speak "msg"    - Uses TTS To Say Custom Msgs
-.msg "msg"      – Message Victim Via Msg Box
-.stup           – Add to startup (Task)
-.clearstup      – Remove from startup (Task)
-.dl             – Grab download history
-.wp             – Set wallpaper To Victims Pc
-.gwp            – Grab Victims Wallpaper
-.moff           – Turn off monitor
-.mon            – Turn on monitor
-.shutdown       – Shutdown PC
-.crash          – Crash Victims Pc 
-.restart        – Restart PC
-.sd             – Self Delete Incase Of Emergency
-.troll          – Open troll Commands
-.exit           – Kill Rat
-
 
  TROUBLESHOOTING
 -------------------
