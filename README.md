@@ -41,7 +41,7 @@ License : MIT
 ---------------------------------
 For No Console Window:
 - Nuitka: pip install nuitka
-  nuitka --onefile --windows-disable-console Rat.py
+  nuitka --onefile --windows-console-mode=disable Rat.py
 
 - OR PyInstaller: pip install pyinstaller
   pyinstaller --onefile --noconsole Rat.py
