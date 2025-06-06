@@ -1,4 +1,7 @@
 
+![discord](https://github.com/user-attachments/assets/341b5144-9c33-40ec-b229-c4ce3ad8a600)
+
+
              Vanish Rat 1.0 - Setup Guide
 --------------------------------------------------------
 Author  : @deadconvicess | Packaged By: #deadconvicess
