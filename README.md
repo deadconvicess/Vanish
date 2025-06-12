@@ -73,5 +73,4 @@ Command	Description
 `.speak <txt	rate
 
 📁 FILE SYSTEM
-Command	Description
 .up
