@@ -2254,7 +2254,7 @@ async def custom_help(ctx):
 .enableinput    - Turns On Users Kbm
 .disablemgr     - Disables Task Manager
 .enablemgr      – Enables Task Manager
-.open (url)  – Open Link in browser
+.open (url)     – Open Link in browser
 .block (url)    - Block Site Via Host file
 .up             – Upload a file To Victims Pc 
 .df             – Delete Uploaded File
