@@ -1,161 +1,75 @@
-=======================================================================
-🐀 DISCORD RAT — REMOTE ADMINISTRATION TOOLKIT
-=======================================================================
+<h1 align="center">🐀 Discord RAT — Remote Administration Toolkit</h1>
 
-Created by: @deadconvicess
-Status    : Development / Educational Only
-Language  : Python 3.10+
-Platform  : Windows Only
-=======================================================================
+<p align="center">
+  <strong>Created by:</strong> <a href="https://github.com/deadconvicess">@deadconvicess</a> •
+  <strong>Status:</strong> Development / Educational Only •
+  <strong>Language:</strong> Python 3.10+ •
+  <strong>Platform:</strong> Windows Only
+</p>
 
-⚠️ DISCLAIMER
-=======================================================================
-This software is for EDUCATIONAL and RESEARCH purposes only.
-You are solely responsible for any misuse of this tool. The developer 
-does NOT condone malicious activity or unauthorized access.
+---
 
-=======================================================================
-🔥 FEATURES
-=======================================================================
-[+] Discord Token Grabber
-[+] Spotify Access Token Stealer
-[+] Webcam Snap + Microphone Recorder
-[+] Screen Capture & Full Screen Recorder
-[+] Keylogger with Live Discord Logging
-[+] VM & Sandbox Detection
-[+] File Upload & Remote Command Execution
-[+] Chrome/Edge/Brave Password Stealer
-[+] Browser Cookie & History Grabber
-[+] Wi-Fi Credentials Extractor
-[+] Registry & Schtasks Startup Persistence
-[+] Task Manager Blocker / Unlocker
-[+] Discord-Controlled Command Interface
-[+] System Info & Geolocation
-[+] Shutdown, Restart, Monitor Power Control
-[+] Fake Error Message / TTS Speech
-[+] Defender Disabler (Basic PowerShell)
-[+] Self Delete, Memory Wipe, Crash PC
+## ⚠️ Disclaimer
 
-=======================================================================
-📦 SETUP INSTRUCTIONS
-=======================================================================
+> This software is for **EDUCATIONAL and RESEARCH** purposes only.  
+> You are solely responsible for any misuse. The developer does **not condone** illegal access or malicious behavior.
 
-1. Create a private Pastebin with 2 lines:
-   ----------------------------------------
-   LINE 1: Your Discord Bot Token
-   LINE 2: Your Webhook URL
-   ----------------------------------------
+---
 
-2. Replace the config_url value:
+## 🔥 Features
+
+- ✅ Discord Token Grabber  
+- ✅ Spotify OAuth Token & Password Stealer  
+- ✅ Webcam Snap & Microphone Recorder  
+- ✅ Screen Capture & Full Video Recorder  
+- ✅ Keylogger with Live Discord Logging  
+- ✅ VM & Sandbox Detection  
+- ✅ File Upload + Execution  
+- ✅ Chrome/Edge/Brave Password Extractor  
+- ✅ Cookie + History Grabber  
+- ✅ Wi-Fi Credential Extractor  
+- ✅ Startup Persistence (Reg + Schtasks)  
+- ✅ Task Manager Blocker / Unlocker  
+- ✅ System Info & Geo-IP  
+- ✅ Fake Error Popups / TTS Voice  
+- ✅ Defender Disabler & System Control  
+- ✅ Crash PC / Self Destruct / Memory Flush
+
+---
+
+## 📦 Setup Instructions
+
+```bash
+1. Create a private Pastebin:
+   LINE 1 = Your Discord Bot Token
+   LINE 2 = Your Webhook URL
+
+2. Replace this line in the code:
    config_url = "https://pastebin.com/raw/your_id_here"
 
-3. Run:
+3. Run the bot:
    > python Rat.py
 
-   (Auto-installs dependencies. Requires Python 3.10+)
+🖥 SYSTEM
+Command	Description
+.help	Show help menu
+.info	PC info (username, OS, IP)
+.geo	Grab geolocation
+.ss	Screenshot victim screen
+.record	Record screen (10s)
+.webcam	Capture webcam snapshot
+.restart	Restart PC
+.shutdown	Shutdown PC
+.crash	Kill svchost (may BSOD)
 
-=======================================================================
-💻 COMMAND REFERENCE
-=======================================================================
+🔧 CONTROL
+Command	Description
+.key start/stop	Start/Stop keylogger
+.shell <cmd>	Run CMD/PowerShell
+.moff / .mon	Turn off/on monitor
+.msg <text>	Show error popup
+`.speak <txt	rate
 
-[ SYSTEM ]
-.help               - Show help menu
-.info               - Get PC name, user, OS, IP
-.geo                - Victim’s IP + Country + ISP
-.ss                 - Take screenshot
-.record             - Record screen (10s, 60fps)
-.webcam             - Take webcam photo
-.restart            - Restart PC
-.shutdown           - Shutdown PC
-.crash              - Kill svchost (may BSOD)
-
-[ CONTROL ]
-.key start/stop     - Start/Stop keylogger (saves to Discord)
-.shell <cmd>        - Run PowerShell or CMD commands
-.moff / .mon        - Turn off/on monitor
-.msg <text>         - Show fake error popup
-.speak <txt|rate|vol> - TTS Speech via victim speakers
-
-[ FILE SYSTEM ]
-.up                 - Upload & auto-execute file
-.Df                 - Delete memory-stored payloads
-.stup / .clearstup  - Add/remove from Task Scheduler startup
-.reg / .rmreg       - Add/remove from registry startup
-
-[ Stealers ]
-.token              - Grab all Discord tokens
-.sp                 - Grab Spotify OAuths + passwords
-.gc                 - Grab browser cookies
-.pw                 - Grab browser passwords
-.af                 - Grab browser autofill
-.dl                 - Show download history
-.history            - Dump Chrome/Brave/Edge history
-
-[ FUN/MEME ]
-.rr                 - Rickroll
-.web                - Spam useless/funny websites
-.cap                - CapsLock spam
-.open <url>         - Open link on victim PC
-
-[ OS SETTINGS ]
-.v <0-100>          - Set system volume %
-.wifi               - Grab Wi-Fi SSIDs & passwords
-.wp <img or url>    - Change wallpaper
-.gwp                - Steal current wallpaper
-
-[ PROTECTION BYPASS ]
-.dwd                - Disable basic Defender settings
-.rtp                - Disable Real-Time Protection
-.disable_mgr        - Disable Task Manager
-.enable_mgr         - Re-enable Task Manager
-
-=======================================================================
-📁 FILE STRUCTURE
-=======================================================================
-Rat.py              - Main bot script
-README.txt          - You are here
-requirements.txt    - Optional: list of dependencies
-
-=======================================================================
-🛠 DEPENDENCIES (Auto-installed)
-=======================================================================
-discord
-requests
-pypiwin32
-pycaw
-comtypes
-opencv-python
-numpy
-sounddevice
-scipy
-pyautogui
-pynput
-cryptography
-pycryptodome
-pillow
-aiofiles
-pyttsx3
-
-=======================================================================
-✅ TESTED ON
-=======================================================================
-- Windows 10 / 11
-- Python 3.10 and 3.11
-- Discord.py 2.x
-
-=======================================================================
-🧠 NOTE
-=======================================================================
-This project does not use Discord Webhooks to control—only to log.
-Command & control is fully via a custom Discord Bot.
-
-DO NOT run on your own system unless you know what you're doing.
-Use inside VMs or sandboxes.
-
-=======================================================================
-👤 AUTHOR
-=======================================================================
-GitHub: https://github.com/deadconvicess
-Project: Discord RAT by @deadconvicess
-
-=======================================================================
+📁 FILE SYSTEM
+Command	Description
+.up
