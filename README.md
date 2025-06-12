@@ -1,5 +1,5 @@
 
-![Rat Image](https://github.com/user-attachments/assets/028ab1e8-de59-4fbb-9873-465acb5b7dff)
+
 
 <h1 align="center">🐀 Discord RAT — Remote Administration Toolkit</h1>
 
@@ -18,7 +18,7 @@
 > You are solely responsible for any misuse. The developer does **not condone** illegal access or malicious behavior.
 
 ---
-
+![Rat Image](https://github.com/user-attachments/assets/2d33c7e1-2977-4f6b-ae5c-d5338137378b)
 ## 🔥 Features
 
 - ✅ Discord Token Grabber  
