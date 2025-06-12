@@ -18,7 +18,7 @@
 > You are solely responsible for any misuse. The developer does **not condone** illegal access or malicious behavior.
 
 ---
-![Rat Image](https://github.com/user-attachments/assets/2d33c7e1-2977-4f6b-ae5c-d5338137378b)
+![Rat Image](https://github.com/user-attachments/assets/2d33c7e1-2977-4f6b-ae5c-d5338137378b)![Troll Commands](https://github.com/user-attachments/assets/bc191578-284f-4f83-86d9-c4e5cd0f8e20)
 ## 🔥 Features
 
 - ✅ Discord Token Grabber  
