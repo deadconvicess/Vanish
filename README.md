@@ -18,7 +18,7 @@
 > You are solely responsible for any misuse. The developer does **not condone** illegal access or malicious behavior.
 
 ---
-![Rat Image](https://github.com/user-attachments/assets/2d33c7e1-2977-4f6b-ae5c-d5338137378b)![Troll Commands](https://github.com/user-attachments/assets/bc191578-284f-4f83-86d9-c4e5cd0f8e20)
+![Rat Image](https://github.com/user-attachments/assets/04c23c37-129e-49c3-b2a7-ef1c67f05a47)
 ## 🔥 Features
 
 - ✅ Discord Token Grabber  
@@ -37,9 +37,8 @@
 - ✅ Fake Error Popups / TTS Voice  
 - ✅ Defender Disabler & System Control  
 - ✅ Crash PC / Self Destruct / Memory Flush
-
 ---
-
+![Troll Commands](https://github.com/user-attachments/assets/c04fbb09-423f-4bbf-b66d-8924f7624ffc)
 ## 📦 Setup Instructions
 
 ```bash
