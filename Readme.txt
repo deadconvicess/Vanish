@@ -1,20 +1,3 @@
-<h1 align="center">🐀 Discord RAT — Remote Administration Toolkit</h1>
-
-<p align="center">
-  <strong>Created by:</strong> <a href="https://github.com/deadconvicess">@deadconvicess</a> •
-  <strong>Status:</strong> Development / Educational Only •
-  <strong>Language:</strong> Python 3.10+ •
-  <strong>Platform:</strong> Windows Only
-</p>
-
----
-
-## ⚠️ Disclaimer
-
-> This software is for **EDUCATIONAL and RESEARCH** purposes only.  
-> You are solely responsible for any misuse. The developer does **not condone** illegal access or malicious behavior.
-
----
 
 ## 🔥 Features
 
