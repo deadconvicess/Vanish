@@ -1,3 +1,6 @@
+
+![Rat Image](https://github.com/user-attachments/assets/028ab1e8-de59-4fbb-9873-465acb5b7dff)
+
 <h1 align="center">🐀 Discord RAT — Remote Administration Toolkit</h1>
 
 <p align="center">
