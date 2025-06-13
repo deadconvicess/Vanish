@@ -63,5 +63,4 @@
 .exit           – Kill Rat
 ==========================
 
-- Made by @deadconvicss
-- Github - https://github.com/deadconvicess/Vanish-Rat
+
