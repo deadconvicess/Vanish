@@ -15,6 +15,9 @@
 > This software is for **EDUCATIONAL and RESEARCH** purposes only.  
 > You are solely responsible for any misuse. The developer does **not condone** illegal access or malicious behavior.
 ---
+> ⚠️ **NOTICE:** This project is no longer maintained and is archived for reference purposes only.  
+> No future updates, issues, or pull requests will be accepted.
+
 ![Rat Image](https://github.com/user-attachments/assets/04c23c37-129e-49c3-b2a7-ef1c67f05a47)
 ![Troll Commands](https://github.com/user-attachments/assets/d177858e-5292-4fff-9ba0-1be4a02deabd)
 ## 🔥 Features
