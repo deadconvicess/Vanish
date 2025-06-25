@@ -37,4 +37,4 @@
 ---
 
 ## ⚠️ **NOTICE:** This project is no longer maintained.
-> No future updates, issues, or pull requests will be accepted.
+> No future issues, or pull requests will be accepted.
