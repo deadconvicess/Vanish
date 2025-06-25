@@ -36,5 +36,5 @@
 - ✅ Crash PC / Self Destruct / Memory Flush
 ---
 
-## ⚠️ **NOTICE:** This project is no longer maintained and is archived for reference purposes only.  
+## ⚠️ **NOTICE:** This project is no longer maintained.
 > No future updates, issues, or pull requests will be accepted.
