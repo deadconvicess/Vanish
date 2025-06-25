@@ -1,5 +1,5 @@
 
-<h1 align="center">🐀 Discord RAT — Remote Access Trojan</h1>
+<h1 align="center">🐀 Discord RAT</h1>
 
 <p align="center">
   <strong>Created by:</strong> <a href="https://github.com/deadconvicess">@deadconvicess</a> •
