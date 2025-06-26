@@ -36,5 +36,7 @@
 - ✅ Crash PC / Self Destruct / Memory Flush
 ---
 
-## ⚠️ **NOTICE:** This project is no longer maintained.
-> No future issues, or pull requests will be accepted.
+```bash
+pip install -r requirements.txt
+```
+
