@@ -39,4 +39,4 @@
 ```bash
 pip install -r requirements.txt
 ```
-
+ If you found this useful, give it a ⭐ on GitHub to support.
