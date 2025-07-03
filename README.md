@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">This Discord Rat Has Alot of Issues. (will be fixed Soon))</h1>
+<h1 align="center">This Discord Rat Has Alot of Issues. (You can fix it if you want)</h1>
 
 <p align="center">
   <strong>Created by:</strong> <a href="https://github.com/deadconvicess">@deadconvicess</a> •
