@@ -14,6 +14,7 @@ import socket
 import shutil
 import ctypes
 import tempfile
+import zipfile
 import getpass
 import random
 import string
