@@ -14,6 +14,7 @@
 ---
 ## ⚠️ Disclaimer
 The developer does **not condone** illegal access or malicious behavior.
+##
 ---
 
 ![Rat Image](https://github.com/user-attachments/assets/04c23c37-129e-49c3-b2a7-ef1c67f05a47)
