@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">This Discord Rat Has Alot of Issues. (You can fix it if you want)</h1>
+<h1 align="center">Discontinued:(</h1>
 
 <p align="center">
   <strong>Created by:</strong> <a href="https://github.com/deadconvicess">@deadconvicess</a> •
@@ -13,8 +13,7 @@
 
 ---
 ## ⚠️ Disclaimer
-> This software is for **EDUCATIONAL and RESEARCH** purposes only.  
-> You are solely responsible for any misuse. The developer does **not condone** illegal access or malicious behavior.
+The developer does **not condone** illegal access or malicious behavior.
 ---
 
 ![Rat Image](https://github.com/user-attachments/assets/04c23c37-129e-49c3-b2a7-ef1c67f05a47)
