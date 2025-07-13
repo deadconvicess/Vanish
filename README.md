@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Discord Rat is Discontinued:(</h1>
+<h1 align="center">Discord Rat is discontinued</h1>
 
 <p align="center">
   <strong>Created by:</strong> <a href="https://github.com/deadconvicess">@deadconvicess</a> •
@@ -38,4 +38,3 @@
 ```bash
 pip install -r requirements.txt
 ```
- If you found this useful, give it a ⭐ on GitHub to support.
