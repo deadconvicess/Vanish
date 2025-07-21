@@ -10,8 +10,8 @@
   <strong>Language:</strong> Python 3.10+ •
   <strong>Platform:</strong> Windows Only
 </p>
----
 
+ ---
 - ✅ Discord Token Grabber  
 - ✅ Spotify OAuth Token & Password Stealer  
 - ✅ Webcam Snap & Microphone Recorder  
