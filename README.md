@@ -11,7 +11,6 @@
   <strong>Platform:</strong> Windows Only
 </p>
 ---
-## 🔥 Features
 
 - ✅ Discord Token Grabber  
 - ✅ Spotify OAuth Token & Password Stealer  
