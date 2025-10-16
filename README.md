@@ -11,6 +11,8 @@
   <strong>Platform:</strong> Windows Only
 </p>
 
+<img width="952" height="462" alt="@Vanish" src="https://github.com/user-attachments/assets/384ecd7d-7410-42a1-83d9-2dcee0643838" />
+
  ---
 
 ```bash
