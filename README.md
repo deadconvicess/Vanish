@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Patched 7/22/25</h1>
+<h1 align="center">Vanish Multi-tool</h1>
 
 <p align="center">
   <strong>Created by:</strong> <a href="https://github.com/deadconvicess">@deadconvicess</a> •
